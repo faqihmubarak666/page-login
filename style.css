@@ -1,0 +1,49 @@
+body {
+  background-color: rgb(145, 145, 151);
+}
+
+.container {
+  background-color: darkturquoise;
+  width: 960px;
+  height: 200;
+  margin: 80px auto;
+  border-radius: 10px;
+  border: 2px solid white;
+}
+
+.container .header {
+  text-align: center;
+}
+
+.container ul li {
+  display: inline-block;
+  margin-top: 5px;
+  margin-right: 10px;
+  text-align: center;
+}
+
+.footer {
+  color: white;
+  text-align: center;
+  background-color: black;
+  padding: 5px;
+}
+
+.container .login {
+  text-align: center;
+}
+
+.container form {
+  margin-left: 300px;
+  width: 400px;
+  background: darkturquoise;
+}
+
+.buttonLogin {
+  margin-left: 120px;
+  margin-left: 145px;
+}
+
+.biodata {
+  font-size: 16px;
+}
